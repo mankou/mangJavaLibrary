@@ -1,0 +1,4 @@
+UISample工程创建于2011年11月30日 属于mangJavaLibrary工作集
+该工程是用RCP项导建立的helloRCP项目。
+1	该工程用于收集关于UI的经典的、感觉好的例子，方便以后复习使用。包括SWT JFace RCP
+2	所有例子必须是自己懂的例子。
