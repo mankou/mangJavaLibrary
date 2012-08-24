@@ -4,7 +4,7 @@
  * last modify:23:33 2012-7-25
  * 功能：StringTokenizer类的练习，StringTokenizer是一个用来分隔String的应用类，相当于VB的split函数
  * */
-package mang.String;
+package mang.string;
 import java.util.StringTokenizer;
 
 

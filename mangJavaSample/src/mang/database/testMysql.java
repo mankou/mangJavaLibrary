@@ -3,7 +3,7 @@
  * lastmodify:2011年12月8日
  * @author mang
  * 功能：从mysql的openfire数据库的ofUser表中读出注册用户信息*/
-package mang.Database;
+package mang.database;
 
 import java.sql.*;
 public class testMysql {

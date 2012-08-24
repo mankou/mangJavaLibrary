@@ -3,7 +3,7 @@
  * last modify:2011年12月8日
  * @author mang
  * 功能：解析ip地址*/
-package mang.String;
+package mang.string;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 public class PraseIP {
