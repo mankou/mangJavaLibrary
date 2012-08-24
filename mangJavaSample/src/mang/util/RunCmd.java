@@ -21,7 +21,7 @@ public class RunCmd {
 		 * 如果直接写成 cmd ="path"则运行程序后没反应.批处理得由cmd.exe执行启动也是有道理的。
 		 * 那如果在linux下执行就得用 /bin/sh /c path 了
 		 * */
-		String cmd="cmd.exe /c start D:\\test\\run\\test.bat"; 
+		String cmd="cmd.exe /c start D:\\test\\run\\RuncmdTest.bat"; 
 		Runtime run = Runtime.getRuntime();//返回与当前 Java 应用程序相关的运行时对象 
 		try {
 			Process p = run.exec(cmd);// 启动另一个进程来执行命令   
