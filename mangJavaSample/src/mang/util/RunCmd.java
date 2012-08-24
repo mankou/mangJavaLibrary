@@ -4,7 +4,7 @@ package mang.util;
  * last modify:17:02 2012-8-24
  * @author mang
  * 功能：java程序调用系统命令示例。这里调用了windows的cmd命令执行了RuncmdTest.bat
- * 执行说明：执行时把RuncmdTest.bat拷备到 d:\test\run路径下方能正确执行。要不找不见路径
+ * 执行说明：执行时把RuncmdTest.bat拷备到 d:\test\run路径下方能正确执行。要不找不见路径. RuncmdTest.bat目前放在本项目lib目录下。该批处理完成简单的定制，一看就明白。
  * */
 
 import java.io.IOException;
